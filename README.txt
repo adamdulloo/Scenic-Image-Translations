@@ -34,7 +34,7 @@ and open the following notebook files:
 
 "Filter Images.ipynb" contains the code to manually filter images.
 
-The folder "Data" contains the filtered dataset used in the project.
+The folder "Data" contains a sample of the filtered dataset used in the project.
 
 Sample images have been added to the "Manual Image Filtering Code" folder
 in order to demonstrate its functionality.
