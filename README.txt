@@ -1,3 +1,13 @@
+An Application of GANs For Scenic Image Translations
+
+Dataset: Night-time and day-time outside scenery images scrapped from google images.
+
+Task: Develop an algorithm that is able to translate an image of a day-time scene into an image of a night-time scene and vice versa.
+
+Method: This project will utilise a Cycle Generative Adversarial Network in order to produce the image to image translations.
+
+Youtube Link Explaining Scenic Translations with CycleGans: https://www.youtube.com/watch?v=yLLjf-kmuAE&ab_channel=Shrek420
+
 This project was worked on in an Anaconda environment, so in order to make sure all
 packages are installed, follow the following steps:
 
