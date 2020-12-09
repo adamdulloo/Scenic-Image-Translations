@@ -8,7 +8,9 @@ Method: This project will utilise a Cycle Generative Adversarial Network in orde
 
 Youtube Link Explaining Scenic Translations with CycleGans: https://www.youtube.com/watch?v=yLLjf-kmuAE&ab_channel=Shrek420
 
-This project was worked on in an Anaconda environment, so in order to make sure all
+ipynb file has all outputs shown.
+
+If you want to run the project, it was worked on in an Anaconda environment, so in order to make sure all
 packages are installed, follow the following steps:
 
 ########################################################################
